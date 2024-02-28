@@ -73,7 +73,15 @@
 // let strNum = number.toString();
 // let sum = 0;
 
-// for (let i = 0; i <= strNum.length; i += 1) {
-//   sum += i;
-//   console.log(sum);
+// for (let i = 0; i < strNum.length; i += 1) {
+//   sum += parseInt(strNum[i]);
 // }
+//   console.log(sum);
+
+
+//ЗАДАЧА No38
+// let sum=1;
+// for(let i = 10; i>1; i-=1){
+// sum*=i;
+// }
+// console.log(sum)
