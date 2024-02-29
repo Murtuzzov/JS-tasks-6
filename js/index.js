@@ -85,3 +85,12 @@
 // sum*=i;
 // }
 // console.log(sum)
+
+//Задача No39
+// let sum = 0;
+// for (let i = 1; i <= 10; i += 1) {
+//   let square = i * i;
+//   sum += square;
+// }
+// console.log(sum);
+
